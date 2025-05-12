@@ -38,18 +38,22 @@ Uma calculadora simples de IMC (Índice de Massa Corporal) desenvolvida em **Rea
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Kamila-Silvva/IMCCalculator
-
+   ```
+   
 2. Acesse a pasta do projeto:
   ```bash
   cd IMCCalculator
+  ```
 
 3. Instale as dependências:
    ```bash
    npm install
+   ```
 
 3. Inicie o projeto:
    ```bash
    npx expo start
+   ```
 
 
 ## Cálculo do IMC
