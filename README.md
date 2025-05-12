@@ -42,7 +42,7 @@ Uma calculadora simples de IMC (Índice de Massa Corporal) desenvolvida em **Rea
    
 2. Acesse a pasta do projeto:
   ```bash
-    cd IMCCalculator
+  cd IMCCalculator
   ```
 
 3. Instale as dependências:
