@@ -10,6 +10,15 @@ Uma calculadora simples de IMC (Índice de Massa Corporal) desenvolvida em **Rea
 
 ---
 
+## Pré-requisitos
+
+- Node.js (versão 16 ou superior)
+- npm ou yarn
+- Expo CLI (opcional)
+- Git
+
+---
+
 ## Funcionalidades
 
 - Inserção de peso (kg) e altura (m ou cm)
