@@ -10,15 +10,6 @@ Uma calculadora simples de IMC (Índice de Massa Corporal) desenvolvida em **Rea
 
 ---
 
-## Pré-requisitos
-
-- Node.js (versão 16 ou superior)
-- npm ou yarn
-- Expo CLI (opcional)
-- Git
-
----
-
 ## Funcionalidades
 
 - Inserção de peso (kg) e altura (m ou cm)
@@ -46,20 +37,20 @@ Uma calculadora simples de IMC (Índice de Massa Corporal) desenvolvida em **Rea
 
 1. Clone o repositório:
    ```bash
-  git clone https://github.com/Kamila-Silvva/IMCCalculator.git
+    git clone https://github.com/Kamila-Silvva/IMCCalculator
    ```
    
 2. Acesse a pasta do projeto:
   ```bash
-  cd IMCCalculator
+    cd IMCCalculator
   ```
 
 3. Instale as dependências:
    ```bash
-  npm install
+    npm install
    ```
 
-4. Inicie o projeto:
+3. Inicie o projeto:
    ```bash
     npx expo start
    ```
@@ -67,9 +58,7 @@ Uma calculadora simples de IMC (Índice de Massa Corporal) desenvolvida em **Rea
 
 ## Cálculo do IMC
 
-A fórmula utilizada é:
-
-IMC = peso / (altura * altura)
+A fórmula utilizada é: IMC = peso / (altura * altura)
 
 ## Licença
 
