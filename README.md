@@ -45,24 +45,24 @@ Uma calculadora simples de IMC (Índice de Massa Corporal) desenvolvida em **Rea
 ## Como rodar
 
 1. Clone o repositório:
-   ```bash
-    git clone https://github.com/Kamila-Silvva/IMCCalculator
-   ```
+ ```bash
+git clone https://github.com/Kamila-Silvva/IMCCalculator
+  ```
    
 2. Acesse a pasta do projeto:
-  ```bash
-    cd IMCCalculator
+```bash
+cd IMCCalculator
   ```
 
 3. Instale as dependências:
-   ```bash
-    npm install
-   ```
+```bash
+npm install
+  ```
 
 3. Inicie o projeto:
-   ```bash
-    npx expo start
-   ```
+```bash
+npx expo start
+  ```
 
 
 ## Cálculo do IMC
@@ -71,4 +71,4 @@ A fórmula utilizada é: IMC = peso / (altura * altura)
 
 ## Licença
 
-Esse projeto está sob a licença **MIT** — sinta-se livre para usar, modificar e compartilhar.
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
